@@ -1,0 +1,14 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "eslint.alwaysShowStatus": true,
+  "html.format.enable": false,
+  "emmet.triggerExpansionOnTab": true
+}
